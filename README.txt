@@ -1,4 +1,4 @@
-FLORES AMARILLAS PARA EIILEN · 21 DE SEPTIEMBRE 🌻
+FLORES AMARILLAS PARA EILEEN · 21 DE SEPTIEMBRE 🌻
 
 Abre index.html para ver la dedicatoria en tu navegador.
 
@@ -9,7 +9,7 @@ El resto de las flores amarillas son decoraciones creadas con HTML, CSS y emojis
 INCLUYE:
 - Imagen portada con entrada animada, brillo y fondo desenfocado.
 - Ocho flores amarillas interactivas, con un mensaje al pulsar cada una.
-- Mensajes personalizados para Eiilen, ratoncita 🐁🫶🏻.
+- Mensajes personalizados para Eileen, ratoncita 🐁🫶🏻.
 - Reconocimiento de su reciente ingreso a Educación Inicial.
 - Carta final con el texto original íntegro de 19/04/2026.
 - Botón de música (reproduce archivo externo, si la URL sigue disponible).

@@ -19,7 +19,7 @@ const grid=$('#petals-grid');
 const progress=$('#petals-progress');
 const announcement=$('#announcement');
 const discovered=new Set();
-const storageKey='ratoncita-eiilen-flores-21sep-v2';
+const storageKey='ratoncita-eileen-flores-21sep-v2';
 
 function tell(message){announcement.textContent=message;}
 function openDialog(dialog){ if(!dialog) return; if(typeof dialog.showModal==='function') dialog.showModal(); else dialog.setAttribute('open',''); }
